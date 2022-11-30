@@ -1,0 +1,3 @@
+[submodule "subprojects/OWASP-Cheat-Sheet"]
+	path = subprojects/OWASP-Cheat-Sheet
+	url = https://github.com/OWASP/CheatSheetSeries.git
